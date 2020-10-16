@@ -1,0 +1,58 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-size: 50px;
+    text-align: center ;
+    background-image: url(images/snow.jpg);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding-bottom: 0;
+    background-color: whitesmoke;
+    padding: inherit 0 inherit 0;
+
+}
+ul {
+    padding-top: 0;
+    margin-top: 0;
+    border-style: inset;
+    border-color: rgb(0, 68, 50);
+    border-bottom: 8px;
+    border-width: auto;
+    background-color: rgba(2, 94, 62, 0.808);
+    padding: 0;
+}
+
+li {
+    color: floralwhite;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0 35px 0px 35px;
+    padding-top: 0;
+    border-color: lightblue;
+    margin-top: 0;
+    padding-bottom: 0;
+    border-style: inset;
+    border-color: rgb(0, 2, 68);
+
+
+}
+h1 {
+
+}
+h2 {
+
+}
+.title {
+    color: rgba(0, 72, 47, 0.714);
+    text-align: center;
+    padding: 400px;
+    padding-bottom: 0;
+}
+.subtitle {
+    padding-top: 0;
+    color: rgba(48, 44, 255, 0.495);
+    font-style: italic;
+}
